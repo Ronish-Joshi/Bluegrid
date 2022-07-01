@@ -399,3 +399,181 @@ height: 40vw;
     width: 55%;
 }
 
+/*==============PAGE FIVE=================*/
+
+.p5-section-one{
+    background-color: #0060AA;
+    color: white;
+    
+    
+}
+.secp5one{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40vw;
+    width: 85%;
+    margin: auto;
+}
+.p5-one-elements h1{
+    font-size: 4vw;
+}
+
+.p5-one-elements p{
+    font-size: 1.5vw;
+    margin-top: 5%;
+}
+.p5-one-img img{
+    width: 40vw;
+}
+
+.p5-section-two{
+    display: flex;
+    height: 40vw;
+    align-items: center;
+}
+
+.p5-two-img{
+    height: 100%;
+    width: 50%;
+    background-image: url(img/p5twoimg.png);
+    background-size: cover;
+}
+.p5-two-elements{
+    margin-left: 5%;
+}
+.p5-two-elements h1{
+    font-size: 3.8vw;
+    font-weight: 700;
+}
+.p5-two-elements p{
+    font-size: 1.5vw;
+    padding-top: 5%;
+}
+
+.p5-section-three{
+    background-color: #0060AA;
+    
+}
+
+.p5-section-three h1{
+    font-size: 4vw;
+    text-align: center;
+    padding-top: 7%;
+    color: white;
+}
+
+.p5-section-three p{
+    font-size: 1.5vw;
+    text-align: center;
+    padding-bottom: 5%;
+    color: white;
+}
+
+.p5-section-three h3{
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.p5-three-one{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 5%;
+}
+.p5-three-one h3{
+   font-size: 1.5vw;
+   font-weight: 600;
+   margin-top: 5%;
+   color: gray;
+}
+.p5-three-one h1{
+    font-size: 3.5vw;
+    font-weight: 600;
+    color: #0060AA;
+ }
+.p5-three-one div p{
+    font-size: 1.24vw;
+    text-align: center;
+    margin-top: 6%;
+    color: gray;
+}
+.p5-three-one div{
+    background-color: white;
+    width: 45%;
+    padding: 5% 0% 3% 0%;
+    border-radius: 5vw;
+}
+
+.p5-three-one svg{
+   margin-left: 50%;
+   transform: translateX(-50%);
+   width: 40%;
+}
+
+/*=====================PAGE SIX==========================*/
+
+.p6-section-one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10%;
+}
+.p6-one-elements h1{
+    font-size: 3.4vw;
+    font-weight: 700;
+}
+.p6-one-elements h2{
+    font-size: 2.5vw;
+}
+.p6-one-img img{
+    width: 40vw;
+}
+
+
+
+.p6-last-one{
+    display: flex;
+}
+
+.p6-last-one div{
+    background-color: #0060AA;
+   
+    width: 40%;
+}
+
+.p6-last-one div h1{
+    text-align: center;
+    font-size: 1.5vw;
+}
+
+.p6-last-one div h4{
+    font-size: 1.2vw;
+}
+
+
+
+/*-===================PAGE SEVEN===============*/
+
+.p7-section-one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10%;
+}
+.p7-one-elements h1{
+    font-size: 3.4vw;
+    font-weight: 700;
+}
+.p7-one-elements h2{
+    font-size: 2.5vw;
+}
+.p7-one-elements p{
+    font-size: 1.5vw;
+    margin-top: 5%;
+}
+.p7-one-img img{
+    width: 30vw;
+    margin-left: 15%;
+}
