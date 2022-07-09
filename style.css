@@ -203,39 +203,28 @@ footer{
 }
 
 .ptwo-section-seven{
-    height: 50vw;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 90%;
-    margin-left: 5%;
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 7%;
 }
-.ptwo-section-seven-elements p{
-    font-size: 2vw;
-    font-weight: 600;
-    margin-top: 3%;
+
+.ptwo-section-seven form{
+    width: 40%;
+    text-align: left;
+    margin: auto;
+    margin-top: 5%;
 }
-#ptwo-high{
-    margin-left: 10%;
-    width: 20vw;
+
+.ptwo-section-seven h1{
+    font-size: 2.5vw;
+    margin: auto;
 }
-.ptwo-form{
- background-color: white;
- box-shadow: 0px 4px 15px 3px rgba(0, 0, 0, 0.7);
- padding: 3%;
- border-radius: 1vw;
- width: 50%;
-height: 40vw;
-}
-.ptwo-form input, textarea{
-    width: 100%;
-}
-.ptwo-form textarea{
-    height: 10vw;
-}
-.ptwo-form h1{
-    font-size: 2vw;
-    font-weight: 400;
+.ptwo-section-seven p{
+    font-size: 1.2vw;
+    width: 50%;
+    color: #7d7d7d;
+    margin: auto;
+    padding-top: 1vw;
 }
 
 
