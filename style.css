@@ -17,6 +17,10 @@ body{
     padding: 5px 35px 5px 35px;
 }
 
+.navbar-brand img{
+    width: 11vw;
+}
+
 .home-section-one{
     background-color: #0060AA;    
     display: flex;
@@ -240,7 +244,7 @@ height: 40vw;
 .p3-section-one{
     background-image: url(img/p3headimg.png);
     background-size: cover;
-    padding-top: 30%;
+    padding-top: 20%;
     padding-left: 8%;
     padding-bottom: 5%;
 }
@@ -287,6 +291,7 @@ height: 40vw;
 
 .p3-three-img{
     z-index: -1;
+    width: 80%;
 }
 .p3-three-img img{
     width: 100%;
